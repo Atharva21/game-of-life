@@ -1,6 +1,7 @@
 {
 	"name": "game-of-life",
 	"version": "0.0.0",
+	"homepage": "https://atharva21.github.io/game-of-life/",
 	"scripts": {
 		"dev": "vite",
 		"build": "tsc && vite build",
